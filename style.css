@@ -1,0 +1,124 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+}
+h1{
+	font-size: 40px;
+}
+.name-highlight{
+	color: brown;
+}
+.half-width{
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    
+}
+p{
+	font-size: 20px;
+}
+.half-width1 img{
+    width: 100%;
+    
+}
+section{
+	height: 500px;
+	padding-bottom: 200px;
+
+}
+.btn{
+	text-decoration: none;
+	background-image: linear-gradient(45deg, salmon, tomato);
+	padding: 10px 20px;
+	color:white;
+	border-radius: 5px;
+	font-size: 700;
+}
+.half-width1{
+	width: 25%;
+    display: inline-block;
+    padding: 2%;
+    margin-left: 3%;
+}
+.center{
+	text-align: center;
+}
+.section-1{
+	margin-top: 10%
+	
+}
+.bottom-section{
+	background-image: url("Group_33094_1.png");
+	background-repeat: no-repeat;
+	background-size: 60%;	
+	margin: auto;
+	background-position: center;
+}
+.inquiry{
+	margin-left: 20%;
+	float: left;
+	padding-left: 30px;
+	padding-top: 300px;
+	color:white;
+		
+}
+ 
+.btn-lets-chat{
+	text-decoration: none;
+	background-image: linear-gradient(45deg, salmon, tomato);
+	padding: 12px 24px;
+	margin-right: 22%;
+	float:right;
+	color:white;
+	margin-top: 330px;
+	border-radius: 5px;
+	font-size: 700;
+}
+.inline{
+	box-shadow: 10px 10px 40px rgb(212, 208, 208);
+	border-radius: 5px;
+}
+.center{
+	margin-top: 200px;
+	margin-bottom: 100px;
+}
+.name-highlight2{
+	color: rgb(255, 0, 0);
+}
+.inline, .top-banner{
+	line-height: 30px;
+	
+}
+.last-section{
+	text-align: center;
+	
+}
+.last{
+  border-radius: 5px;
+  background-color: #131212;
+  padding: 20px;
+  color: white;
+}
+.btn-submit{
+	text-decoration: none;
+	background-image: linear-gradient(45deg, salmon, tomato);
+	width: 5%;
+	padding: 10px 20px;
+	color:white;
+	border-radius: 5px;
+	font-size: 700;
+	margin-top: 10px;
+	margin-left: 46%;
+}
+#fname{
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+#msg{
+	width: 500px;
+	height: 100px;
+}
